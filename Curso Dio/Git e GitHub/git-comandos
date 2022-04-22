@@ -1,0 +1,11 @@
+Git Bash
+
+comandos
+
+git clone + link do repositório que queira clonar,
+git status
+git add: adicionar os arquivos no repositório local
+git commit -m ""
+git push origin main
+
+
