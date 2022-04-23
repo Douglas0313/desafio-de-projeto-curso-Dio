@@ -129,6 +129,17 @@ overflow: hidden;
 
 }
 
+.ios {
+    
+    height: 3.2rem;
+
+}
+
+.android{
+    height: 3.2rem;
+
+}
+
 .app-download:nth-child(1){
     background-image: url(instagram-dio-master/img/apple-button.png);
 
